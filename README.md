@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adewuy
+- 👋 Hi, I’m @Adewuyi Dayo
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on data analysis project, intern

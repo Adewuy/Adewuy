@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dayo Adewuyi
-- 👀 I’m a front-end developer with react and a community manager
+- 👀 I’m a Blockchain data analyst, community manager and a social media manager. 
 - 🌱 I’m currently seeking for an intern role as a front-end developer using react js.
 - 💞️ I’m looking to collaborate on a front-end/community manager project, intern
 - 📫 How to reach me mail adewuyiadedayo025@gmail.com / 07069790968
